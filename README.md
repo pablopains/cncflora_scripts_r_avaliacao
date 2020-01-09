@@ -31,3 +31,4 @@
 * Lucas Moraes            - lucascmoraes@gmail.com - 
 * Andrea Sánchez-Tapia    - andreasancheztapia@gmail.com - [GitHub](https://github.com/AndreaSanchezTapia)
 * José Wagner Ribeiro Jr. - jwribeirojunior@gmail.com - [GitHub](https://github.com/Xuletajr)
+* Pablo Hendrigo Alves de Melo - melo.hendrigo@gmail.com - [GitHub](https://github.com/pablopains)
